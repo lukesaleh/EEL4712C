@@ -1,0 +1,370 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/19.1
+Eadder
+Z0 w1674573777
+Z1 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z2 DPx5 maxii 15 maxii_atom_pack 0 22 KS1DPNZSGdHmnBkjaQ8@k1
+Z3 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z4 DPx5 maxii 16 maxii_components 0 22 4UYi7BYKRV>W83MX1aJK>2
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1
+Z8 8C:/Users/lukes/Desktop/Work/QuartusProjects/EEL4712C/Lab1/Part2/simulation/modelsim/fa.vho
+Z9 FC:/Users/lukes/Desktop/Work/QuartusProjects/EEL4712C/Lab1/Part2/simulation/modelsim/fa.vho
+l0
+L35
+V^Y9FBZdPH@JC4dI3gl1Of0
+!s100 oKU`4P7oYFA7hiJ?@OK<G1
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1674597259
+!i10b 1
+Z12 !s108 1674597259.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/QuartusProjects/EEL4712C/Lab1/Part2/simulation/modelsim/fa.vho|
+Z14 !s107 C:/Users/lukes/Desktop/Work/QuartusProjects/EEL4712C/Lab1/Part2/simulation/modelsim/fa.vho|
+!i113 1
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z17 DEx4 work 5 adder 0 22 ^Y9FBZdPH@JC4dI3gl1Of0
+l75
+L48
+VSBo;3ge;l4McRYDI2F0D`2
+!s100 RdJQUedKd=nTAG^d7;6Ao0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Eadder_tb
+Z18 w1674572697
+Z19 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R5
+R6
+R7
+Z20 8C:/Users/lukes/Downloads/adder_tb.vhd
+Z21 FC:/Users/lukes/Downloads/adder_tb.vhd
+l0
+L8
+VlNzV;BRTo_:<@RIU:K?>L1
+!s100 PDNPhQNIQ4JdmiNVWd5YI3
+R10
+32
+R11
+!i10b 1
+R12
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Downloads/adder_tb.vhd|
+Z23 !s107 C:/Users/lukes/Downloads/adder_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R1
+R2
+R3
+R4
+R17
+R19
+R5
+R6
+DEx4 work 8 adder_tb 0 22 lNzV;BRTo_:<@RIU:K?>L1
+l16
+L11
+Vn^JjCSfc]loAPWMfo=8:N0
+!s100 2E?IVF`@j[8^@^TA`74R82
+R10
+32
+R11
+!i10b 1
+R12
+R22
+R23
+!i113 1
+R15
+R16
+Ecounter
+Z24 w1674455063
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z25 8C:/Users/lukes/Desktop/Work/QuartusProjects/EEL4712C/Lab1/Part1/simulation/modelsim/counter.vho
+Z26 FC:/Users/lukes/Desktop/Work/QuartusProjects/EEL4712C/Lab1/Part1/simulation/modelsim/counter.vho
+l0
+L35
+V:QB4n24O5zNOe^1PTC]g[3
+!s100 o3<DGg78z]`>Q`>S<1:NK1
+R10
+32
+Z27 !s110 1674596715
+!i10b 1
+Z28 !s108 1674596715.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/QuartusProjects/EEL4712C/Lab1/Part1/simulation/modelsim/counter.vho|
+Z30 !s107 C:/Users/lukes/Desktop/Work/QuartusProjects/EEL4712C/Lab1/Part1/simulation/modelsim/counter.vho|
+!i113 1
+R15
+R16
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z31 DEx4 work 7 counter 0 22 :QB4n24O5zNOe^1PTC]g[3
+l141
+L64
+V75U=K4;aWkNUWL?@DMn==0
+!s100 Q<eTcd]:dnfBm_lW71Vo50
+R10
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R15
+R16
+Ecounter_tb
+Z32 w1674596080
+R19
+R5
+R6
+R7
+Z33 8C:/Users/lukes/Downloads/counter_tb.vhd
+Z34 FC:/Users/lukes/Downloads/counter_tb.vhd
+l0
+L8
+VS>Ya]0C>iIkha9`J>B87W3
+!s100 S1[Bdaelf6PZgfC@f;JDz2
+R10
+32
+R27
+!i10b 1
+R28
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Downloads/counter_tb.vhd|
+Z36 !s107 C:/Users/lukes/Downloads/counter_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R1
+R2
+R3
+R4
+R31
+R19
+R5
+R6
+DEx4 work 10 counter_tb 0 22 S>Ya]0C>iIkha9`J>B87W3
+l41
+L11
+VX@22A`2H047S_X2Q`[HZK0
+!s100 7AWDWjZMhg8JN4l[cj4C?3
+R10
+32
+R27
+!i10b 1
+R28
+R35
+R36
+!i113 1
+R15
+R16
+Edecoder7seg
+Z37 w1675097365
+R5
+R6
+R7
+Z38 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1/decoder7seg.vhd
+Z39 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1/decoder7seg.vhd
+l0
+L4
+VS_8G2;Mee>PnYi6]1U<k70
+!s100 BDUP[YZVO8FZQQ9;?L_>T0
+R10
+32
+Z40 !s110 1675097735
+!i10b 1
+Z41 !s108 1675097735.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1/decoder7seg.vhd|
+Z43 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1/decoder7seg.vhd|
+!i113 1
+R15
+R16
+Abehavior
+R5
+R6
+Z44 DEx4 work 11 decoder7seg 0 22 S_8G2;Mee>PnYi6]1U<k70
+l11
+L10
+Z45 VAVGalUH5A4;^TlQ^UGZQ80
+Z46 !s100 k><bfb6]_h?4mZQf>OQgB2
+R10
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R15
+R16
+Edecoder7seg_tb
+Z47 w1675097450
+R19
+R5
+R6
+R7
+Z48 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1/decoder7seg_tb.vhd
+Z49 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1/decoder7seg_tb.vhd
+l0
+L5
+VDH8OOK1=ONGCV6D6HbUHj1
+!s100 aL:0Taj0aomELM_oz]DEJ1
+R10
+32
+R40
+!i10b 1
+Z50 !s108 1675097734.000000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1/decoder7seg_tb.vhd|
+Z52 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1/decoder7seg_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R44
+R19
+R5
+R6
+DEx4 work 14 decoder7seg_tb 0 22 DH8OOK1=ONGCV6D6HbUHj1
+l19
+L8
+VHKo?eME;KU=R^J>jJg^4m0
+!s100 zJB@5o@DzQ:4z<Dk52=ba0
+R10
+32
+R40
+!i10b 1
+R50
+R51
+R52
+!i113 1
+R15
+R16
+Efa
+Z53 w1674544221
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+l0
+L35
+VaSRmMI?17Bi]FR4f1AdCB1
+!s100 8kM<5`eWNa=kK>Dk_DV1@2
+R10
+32
+Z54 !s110 1674544313
+!i10b 1
+Z55 !s108 1674544313.000000
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+Z56 DEx4 work 2 fa 0 22 aSRmMI?17Bi]FR4f1AdCB1
+l69
+L48
+V>Pg2OPJY;9WalfTRiE<S22
+!s100 dF1aUN0aLL@2aRL2oVKXV3
+R10
+32
+R54
+!i10b 1
+R55
+R13
+R14
+!i113 1
+R15
+R16
+Efa_tb
+Z57 w1674543364
+R19
+R5
+R6
+R7
+Z58 8C:/Users/lukes/Downloads/fa_tb.vhd
+Z59 FC:/Users/lukes/Downloads/fa_tb.vhd
+l0
+L8
+VI_3P48INb@BMb3ij>;@EP1
+!s100 3_abXP8hnMOG:JhJ230mZ2
+R10
+32
+R54
+!i10b 1
+R55
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Downloads/fa_tb.vhd|
+Z61 !s107 C:/Users/lukes/Downloads/fa_tb.vhd|
+!i113 1
+R15
+R16
+Atb
+R1
+R2
+R3
+R4
+R56
+R19
+R5
+R6
+DEx4 work 5 fa_tb 0 22 I_3P48INb@BMb3ij>;@EP1
+l15
+L11
+V;71bgaGFnXX6ZEYW?:eG81
+!s100 FO=:8hk>d::o5CB`_T0@f0
+R10
+32
+R54
+!i10b 1
+R55
+R60
+R61
+!i113 1
+R15
+R16

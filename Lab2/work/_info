@@ -1,0 +1,260 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab1
+Ealu_ns
+Z0 w1675199675
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2
+Z5 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_ns.vhd
+Z6 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_ns.vhd
+l0
+L5
+VDkZKa`W;=dXS7m=N;5C?<0
+!s100 57YC?<loH_XL`X^:?id2M2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1675200275
+!i10b 1
+Z9 !s108 1675200275.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_ns.vhd|
+Z11 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_ns.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+R3
+Z14 DEx4 work 6 alu_ns 0 22 DkZKa`W;=dXS7m=N;5C?<0
+l22
+L21
+Vl_CZflDDEU>aYO?:VV1HS1
+!s100 DcA2TmWDLPTaDiU<OHz7c0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ealu_ns_tb
+Z15 w1675200256
+R1
+R2
+R3
+R4
+Z16 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_ns_tb.vhd
+Z17 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_ns_tb.vhd
+l0
+L5
+VUd76M:cb02BO[cj>B:G1A0
+!s100 ]eR?dmNgGOXmC7FTNBELj0
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_ns_tb.vhd|
+Z19 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_ns_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R14
+R1
+R2
+R3
+DEx4 work 9 alu_ns_tb 0 22 Ud76M:cb02BO[cj>B:G1A0
+l17
+L8
+V5Ci`2[z1Z9f?4@EDbj3Rg1
+!s100 eQH@INgIe1DZTk:_[>zne0
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Ealu_sla
+Z20 w1675196204
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z22 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+R4
+Z23 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_sla.vhd
+Z24 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_sla.vhd
+l0
+L6
+VAOC;z5[[XiUI9mTW92TAL1
+!s100 a7F7lgh7DKW]ofAOWU0873
+R7
+32
+Z25 !s110 1675205877
+!i10b 1
+Z26 !s108 1675205877.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_sla.vhd|
+Z28 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_sla.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R21
+R22
+R2
+R3
+DEx4 work 7 alu_sla 0 22 AOC;z5[[XiUI9mTW92TAL1
+l19
+L18
+VRiGWn8PX8Zh=:1F:Wim5K1
+!s100 WAP9ea]EN@9aM9V_EMd933
+R7
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R12
+R13
+Ealu_sla_tb
+Z29 w1675205874
+R21
+R22
+R2
+R3
+R4
+Z30 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_sla_tb.vhd
+Z31 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_sla_tb.vhd
+l0
+L6
+VASSfzo0g@bO`cK2gQLTf40
+!s100 ekC7gY^[3W8iWBGeQUD242
+R7
+32
+R25
+!i10b 1
+R26
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_sla_tb.vhd|
+Z33 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/alu_sla_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R21
+R22
+R2
+R3
+DEx4 work 10 alu_sla_tb 0 22 ASSfzo0g@bO`cK2gQLTf40
+l33
+L9
+VR9fMRGd[9Tbk6H81hc7Q[1
+!s100 54<>Q_?L?IP7lN71N4aRK3
+R7
+32
+R25
+!i10b 1
+R26
+R32
+R33
+!i113 1
+R12
+R13
+Edecoder7seg
+Z34 w1675097365
+R2
+R3
+R4
+Z35 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/decoder7seg.vhd
+Z36 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/decoder7seg.vhd
+l0
+L4
+VS_8G2;Mee>PnYi6]1U<k70
+!s100 BDUP[YZVO8FZQQ9;?L_>T0
+R7
+32
+Z37 !s110 1675201205
+!i10b 1
+Z38 !s108 1675201205.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/decoder7seg.vhd|
+Z40 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/decoder7seg.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+Z41 DEx4 work 11 decoder7seg 0 22 S_8G2;Mee>PnYi6]1U<k70
+l11
+L10
+VAVGalUH5A4;^TlQ^UGZQ80
+!s100 k><bfb6]_h?4mZQf>OQgB2
+R7
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R12
+R13
+Etop_level
+Z42 w1675200748
+R2
+R3
+R4
+Z43 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/top_level.vhd
+Z44 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/top_level.vhd
+l0
+L18
+V0=K=HMVmC3lPIENj`?B<J1
+!s100 JMFj69CoA`e:?>Zi>IPU>1
+R7
+32
+R37
+!i10b 1
+R38
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/top_level.vhd|
+Z46 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab2/top_level.vhd|
+!i113 1
+R12
+R13
+Astr
+R1
+R14
+R41
+R2
+R3
+DEx4 work 9 top_level 0 22 0=K=HMVmC3lPIENj`?B<J1
+l45
+L37
+V3C3h13b5=<UU>MjX1KhL31
+!s100 VQDGL^OcDNo3><P5_n74`3
+R7
+32
+R37
+!i10b 1
+R38
+R45
+R46
+!i113 1
+R12
+R13

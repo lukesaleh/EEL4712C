@@ -1,0 +1,99 @@
+C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/top_level.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/top_level.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity top_level
+-- Compiling architecture STR of top_level
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Loading entity vga
+-- Loading package MATH_REAL
+-- Loading entity clk_div
+-- Loading entity decoder7seg
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity vga
+-- Compiling architecture default_arch of vga
+-- Loading entity vga_sync_gen
+-- Loading package altera_mf_components
+-- Loading entity vga_rom
+-- Loading entity rowaddress
+-- Loading entity coladdress
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/rowaddress.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/rowaddress.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity rowaddress
+-- Compiling architecture BHV of rowaddress
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_sync_gen.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_sync_gen.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity vga_sync_gen
+-- Compiling architecture BHV of vga_sync_gen
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Loading package altera_mf_components
+-- Loading package std_logic_textio
+-- Compiling entity vga_tb
+-- Compiling architecture TB of vga_tb
+-- Loading entity vga
+** Warning: C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_tb.vhd(292): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/clk_div.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/clk_div.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity clk_div
+-- Compiling architecture BHV of clk_div
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_lib.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_lib.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package VGA_LIB
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/decoder7seg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/decoder7seg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder7seg
+-- Compiling architecture Behavior of decoder7seg
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/coladdress.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/coladdress.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity coladdress
+-- Compiling architecture BHV of coladdress
+
+} {} {}}

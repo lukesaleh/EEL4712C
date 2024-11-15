@@ -1,0 +1,810 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6
+Ealu
+Z0 w1682129703
+Z1 DPx4 work 7 alu_lib 0 22 ^gjS3_=@7ohiY:_]f8nTo3
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS
+Z6 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu.vhd
+Z7 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu.vhd
+l0
+L5
+ViIGH[1=_ci?@930ch[S0l2
+!s100 K[T9[B@DG6B_l3nZ<3Mz:2
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1682133358
+!i10b 1
+Z10 !s108 1682133358.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu.vhd|
+Z12 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abhv
+R1
+R2
+R3
+R4
+Z15 DEx4 work 3 alu 0 22 iIGH[1=_ci?@930ch[S0l2
+l23
+L17
+V6P1bUdH@JQ;[j;W38mZ2e0
+!s100 4Xfaf1_@IKf]<OCjeOG:R2
+R8
+32
+Z16 !s110 1682133359
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Palu_lib
+R3
+R4
+w1681829322
+R5
+8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_lib.vhd
+FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_lib.vhd
+l0
+L4
+V^gjS3_=@7ohiY:_]f8nTo3
+!s100 @O`Q6XY5U=NGj53eh2iIi1
+R8
+32
+R16
+!i10b 1
+Z17 !s108 1682133359.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_lib.vhd|
+!s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_lib.vhd|
+!i113 1
+R13
+R14
+Ealu_tb
+Z18 w1682129741
+R1
+R2
+R3
+R4
+R5
+Z19 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_tb.vhd
+Z20 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_tb.vhd
+l0
+L6
+VS?[11j?c8GXN59F369@I[1
+!s100 kmnj>1Dg[L@]dm2N=mM@l1
+R8
+32
+R16
+!i10b 1
+R17
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_tb.vhd|
+Z22 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R15
+R1
+R2
+R3
+R4
+DEx4 work 6 alu_tb 0 22 S?[11j?c8GXN59F369@I[1
+l18
+L10
+VOX;z@k_]dVDYf?mb;V_F40
+!s100 i<Qd]XPQJM:oQOHE3CFVV3
+R8
+32
+R16
+!i10b 1
+R17
+R21
+R22
+!i113 1
+R13
+R14
+Ealucontrol
+Z23 w1681855514
+R1
+R2
+R3
+R4
+R5
+Z24 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/ALUcontrol.vhd
+Z25 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/ALUcontrol.vhd
+l0
+L6
+VVf:[A[mhcY5oYU:CDd[O72
+!s100 Y5g;UIBX?LjMnjTChDSb^3
+R8
+32
+R16
+!i10b 1
+R17
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/ALUcontrol.vhd|
+Z27 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/ALUcontrol.vhd|
+!i113 1
+R13
+R14
+Abhv
+R1
+R2
+R3
+R4
+Z28 DEx4 work 10 alucontrol 0 22 Vf:[A[mhcY5oYU:CDd[O72
+l18
+L17
+V28iEIeGTeJU6EG8fXnaA=0
+!s100 c6_<^8<3l<Q6;FeoTi<YC1
+R8
+32
+R16
+!i10b 1
+R17
+R26
+R27
+!i113 1
+R13
+R14
+Econcat
+Z29 w1681776469
+R3
+R4
+R5
+Z30 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/concat.vhd
+Z31 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/concat.vhd
+l0
+L4
+V1<a8D[T7`RYLBT1A1IGoU1
+!s100 nY3nSU<;d7hiVD0S5_`e_3
+R8
+32
+R16
+!i10b 1
+R17
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/concat.vhd|
+Z33 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/concat.vhd|
+!i113 1
+R13
+R14
+Abhv
+R3
+R4
+Z34 DEx4 work 6 concat 0 22 1<a8D[T7`RYLBT1A1IGoU1
+l14
+L13
+Vf8PGB]P4RaXMUKS47iR5o0
+!s100 T7gI5V^H16UXCmRK35;6S3
+R8
+32
+R16
+!i10b 1
+R17
+R32
+R33
+!i113 1
+R13
+R14
+Econtroller
+Z35 w1681855515
+R2
+R3
+R4
+R5
+Z36 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller.vhd
+Z37 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller.vhd
+l0
+L5
+VQMamM:Ta?z<bQ?7XPZBJ?1
+!s100 ^0Q^LDh7ZLD4Q69fR4>7A2
+R8
+32
+R16
+!i10b 1
+R17
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller.vhd|
+Z39 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller.vhd|
+!i113 1
+R13
+R14
+Abhv
+R2
+R3
+R4
+Z40 DEx4 work 10 controller 0 22 QMamM:Ta?z<bQ?7XPZBJ?1
+l22
+L18
+V]cD_7@I1gmmaC[aCADa3W0
+!s100 Ri7FPgnG17QOn5e9zPG@N3
+R8
+32
+R16
+!i10b 1
+R17
+R38
+R39
+!i113 1
+R13
+R14
+Econtroller_tb
+Z41 w1682131993
+R1
+R2
+R3
+R4
+R5
+Z42 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller_tb.vhd
+Z43 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller_tb.vhd
+l0
+L5
+Vf1=0fHoI345;bW>zWNQ6K1
+!s100 g;;jM0kRzHBeYE^W@]ghX3
+R8
+32
+R16
+!i10b 1
+R17
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller_tb.vhd|
+Z45 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R40
+Z46 DEx4 work 8 datapath 0 22 zCCmJe0@GhidjF8C:`05H3
+R1
+R2
+R3
+R4
+DEx4 work 13 controller_tb 0 22 f1=0fHoI345;bW>zWNQ6K1
+l22
+L9
+Va@^G0@Zi@lPTiRQ2zhEH_2
+!s100 5WlBgPaFnRlDY5mkl?6GL0
+R8
+32
+R16
+!i10b 1
+R17
+R44
+R45
+!i113 1
+R13
+R14
+Edatapath
+Z47 w1681874338
+R1
+R2
+R3
+R4
+R5
+Z48 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/datapath.vhd
+Z49 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/datapath.vhd
+l0
+L5
+VzCCmJe0@GhidjF8C:`05H3
+!s100 F6XOG5R82f^PzaDGWmMka1
+R8
+32
+R16
+!i10b 1
+R17
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/datapath.vhd|
+Z51 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/datapath.vhd|
+!i113 1
+R13
+R14
+Abhv
+R34
+Z52 DEx4 work 3 mux 0 22 66f4FZ:DHa^K5fMKc[6FF1
+Z53 DEx4 work 6 mux4x1 0 22 ;FJHR2alh9JT361>_:ZIF1
+Z54 DEx4 work 10 shiftleft2 0 22 o6WnfO76jnL=61mK;_4[h3
+Z55 DEx4 work 10 signextend 0 22 cilVc@hN5zk=V7hUIc0lP1
+Z56 DEx4 work 7 regfile 0 22 U6[[_`_?;oX4z4mH[]5eT2
+Z57 DEx4 work 10 zeroextend 0 22 c8Nn7GC64__nE73?OU6;50
+Z58 DEx4 work 6 mux2x1 0 22 o<REEAzU1F[_8nJ9:CMgX0
+Z59 DEx4 work 6 reg_en 0 22 Yh0oYh`PeOi_IW9dScBRJ2
+Z60 DEx4 work 6 memory 0 22 9?6UUjTmGa`5=Lb6JIBge0
+R28
+R15
+R1
+R2
+R3
+R4
+R46
+l37
+L25
+VYd2Zo2^[O4=Dle=712Yj00
+!s100 e5`@8F6MaOXV=D;7jf[N:1
+R8
+32
+R16
+!i10b 1
+R17
+R50
+R51
+!i113 1
+R13
+R14
+Ememory
+Z61 w1681874306
+R2
+R3
+R4
+R5
+Z62 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory.vhd
+Z63 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory.vhd
+l0
+L5
+V9?6UUjTmGa`5=Lb6JIBge0
+!s100 D09>9397c8a=L2>QQi^o@3
+R8
+32
+R16
+!i10b 1
+R17
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory.vhd|
+Z65 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory.vhd|
+!i113 1
+R13
+R14
+Abhv
+R58
+R52
+R59
+Z66 DPx9 altera_mf 20 altera_mf_components 0 22 @6M>I48X_jBQDo@?W=TN93
+Z67 DEx4 work 4 sram 0 22 2OBe8^>VBDGIPjl__gYcg2
+R2
+R3
+R4
+R60
+l32
+L19
+VA]@`?4=Rh[kPIG5=6cUG22
+!s100 7?4dI>NMkSBm_3^<dl[AL3
+R8
+32
+R16
+!i10b 1
+R17
+R64
+R65
+!i113 1
+R13
+R14
+Ememory_tb
+Z68 w1682130208
+R2
+R3
+R4
+R5
+Z69 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory_tb.vhd
+Z70 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory_tb.vhd
+l0
+L5
+VJCh8zl>EeS6NJgo4]S4Mm2
+!s100 o9LjVb1UGAo3dBDCM9ejQ3
+R8
+32
+R16
+!i10b 1
+R17
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory_tb.vhd|
+Z72 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R60
+R2
+R3
+R4
+DEx4 work 9 memory_tb 0 22 JCh8zl>EeS6NJgo4]S4Mm2
+l20
+L9
+V;Wz=Kc;]HS7l:C=3=Ho9o0
+!s100 ZTg2=ER44NM6f33WGVSAD3
+R8
+32
+R16
+!i10b 1
+R17
+R71
+R72
+!i113 1
+R13
+R14
+Emux
+Z73 w1680717957
+R3
+R4
+R5
+Z74 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux.vhd
+Z75 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux.vhd
+l0
+L7
+V66f4FZ:DHa^K5fMKc[6FF1
+!s100 1e>2fl<j=TjU:[K3d3^_m0
+R8
+32
+Z76 !s110 1682133360
+!i10b 1
+R17
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux.vhd|
+Z78 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux.vhd|
+!i113 1
+R13
+R14
+Abhv
+R3
+R4
+R52
+l19
+L18
+VGfn]@Th7Z:G9Q7QDSzkjg1
+!s100 M=FomOejZJd<<eFo?daH:2
+R8
+32
+R76
+!i10b 1
+R17
+R77
+R78
+!i113 1
+R13
+R14
+Emux2x1
+Z79 w1681242215
+R3
+R4
+R5
+Z80 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux2x1.vhd
+Z81 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux2x1.vhd
+l0
+L4
+Vo<REEAzU1F[_8nJ9:CMgX0
+!s100 ]8D@1zHBWj=^EBQc7BUg23
+R8
+32
+R76
+!i10b 1
+Z82 !s108 1682133360.000000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux2x1.vhd|
+Z84 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux2x1.vhd|
+!i113 1
+R13
+R14
+Abhv
+R3
+R4
+R58
+l15
+L14
+Vk:PH`aj8X2N9@DSo<1Kdm0
+!s100 BV=mVoB]@LU;@6@T@9oLh0
+R8
+32
+R76
+!i10b 1
+R82
+R83
+R84
+!i113 1
+R13
+R14
+Emux4x1
+Z85 w1680751431
+R3
+R4
+R5
+Z86 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux4x1.vhd
+Z87 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux4x1.vhd
+l0
+L4
+V;FJHR2alh9JT361>_:ZIF1
+!s100 T1IK7@@7@URCkej7ndSDD1
+R8
+32
+R76
+!i10b 1
+R82
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux4x1.vhd|
+Z89 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux4x1.vhd|
+!i113 1
+R13
+R14
+Abhv
+R3
+R4
+R53
+l17
+L16
+V0jnCT?]eZ?o1`e=56?zZk0
+!s100 <?]93ek>_FfRn<d`E7ERO2
+R8
+32
+R76
+!i10b 1
+R82
+R88
+R89
+!i113 1
+R13
+R14
+Ereg_en
+Z90 w1677600488
+R3
+R4
+R5
+Z91 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/register.vhd
+Z92 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/register.vhd
+l0
+L7
+VYh0oYh`PeOi_IW9dScBRJ2
+!s100 C^VAa0U>nBcnQhdVXIbC:0
+R8
+32
+R76
+!i10b 1
+R82
+Z93 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/register.vhd|
+Z94 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/register.vhd|
+!i113 1
+R13
+R14
+Abhv
+R3
+R4
+R59
+l20
+L19
+V_7OEW@8NN0PDVGdUVK^_12
+!s100 DPY^oeL6>QH56_ElKR=B82
+R8
+32
+R76
+!i10b 1
+R82
+R93
+R94
+!i113 1
+R13
+R14
+Eregfile
+Z95 w1681827192
+R2
+R3
+R4
+R5
+Z96 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/regFile.vhd
+Z97 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/regFile.vhd
+l0
+L5
+VU6[[_`_?;oX4z4mH[]5eT2
+!s100 INJV?NKTDhMBEfoh`djlT0
+R8
+32
+R76
+!i10b 1
+R82
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/regFile.vhd|
+Z99 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/regFile.vhd|
+!i113 1
+R13
+R14
+Abhv
+R2
+R3
+R4
+R56
+l25
+L22
+VSF0f5=G3GhP4]UTBk=ncI2
+!s100 Oa>Bi<fbOadD=Ma`z@_OG3
+R8
+32
+R76
+!i10b 1
+R82
+R98
+R99
+!i113 1
+R13
+R14
+Aasync_read
+R2
+R3
+R4
+DEx4 work 7 regfile 0 22 =0zJZ6cgUg`2SB0ioOAa[2
+l26
+L23
+V;;bb2`^I>W>^HS^2AVZI]1
+!s100 _>=YOhd2S`H6MbQ@hMi=I1
+R8
+32
+!s110 1680755041
+!i10b 1
+!s108 1680755041.000000
+R98
+R99
+!i113 1
+R13
+R14
+R85
+Eshiftleft2
+R85
+R2
+R3
+R4
+R5
+Z100 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/shiftLeft2.vhd
+Z101 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/shiftLeft2.vhd
+l0
+L5
+Vo6WnfO76jnL=61mK;_4[h3
+!s100 0@08bmQa7P0`Q6SS3mHdg1
+R8
+32
+R76
+!i10b 1
+R82
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/shiftLeft2.vhd|
+Z103 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/shiftLeft2.vhd|
+!i113 1
+R13
+R14
+Abhv
+R2
+R3
+R4
+R54
+l15
+L13
+VO>0AmPSnXR9AF9e=[YeYL3
+!s100 ?RC6==28KU30mGc2FU:Y42
+R8
+32
+R76
+!i10b 1
+R82
+R102
+R103
+!i113 1
+R13
+R14
+Esignextend
+R85
+R2
+R3
+R4
+R5
+Z104 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/signExtend.vhd
+Z105 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/signExtend.vhd
+l0
+L5
+VcilVc@hN5zk=V7hUIc0lP1
+!s100 5o=:71JkMMo`FN17MhGJd2
+R8
+32
+R76
+!i10b 1
+R82
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/signExtend.vhd|
+Z107 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/signExtend.vhd|
+!i113 1
+R13
+R14
+Asign
+R2
+R3
+R4
+R55
+l15
+L14
+VEEDnzk5;CA4DM5`I>f?F82
+!s100 bZ0h`77oo9zY_?nnjGeZh3
+R8
+32
+R76
+!i10b 1
+R82
+R106
+R107
+!i113 1
+R13
+R14
+Esram
+Z108 w1682133353
+R66
+R3
+R4
+R5
+Z109 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/sram.vhd
+Z110 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/sram.vhd
+l0
+L43
+V2OBe8^>VBDGIPjl__gYcg2
+!s100 DhLL>dK6KD;?1m>`m1@JK1
+R8
+32
+R76
+!i10b 1
+R82
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/sram.vhd|
+Z112 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/sram.vhd|
+!i113 1
+R13
+R14
+Asyn
+R66
+R3
+R4
+R67
+l59
+L55
+VO1G@UEMdYBA8bH@;2aPLo1
+!s100 LAm=o0DM2l:X268^KeX1H2
+R8
+32
+R76
+!i10b 1
+R82
+R111
+R112
+!i113 1
+R13
+R14
+Ezeroextend
+Z113 w1681874208
+R2
+R3
+R4
+R5
+Z114 8C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/zeroExtend.vhd
+Z115 FC:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/zeroExtend.vhd
+l0
+L5
+Vc8Nn7GC64__nE73?OU6;50
+!s100 @9@XETn?<VFXHhCE3;Pod2
+R8
+32
+R9
+!i10b 1
+R10
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/zeroExtend.vhd|
+Z117 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/zeroExtend.vhd|
+!i113 1
+R13
+R14
+Abhv
+R2
+R3
+R4
+R57
+l14
+L13
+V9=8W3RnNAeDljZaUi@DlO0
+!s100 4f<nUSz7jicZ6V=P9D>0Q3
+R8
+32
+R9
+!i10b 1
+R10
+R116
+R117
+!i113 1
+R13
+R14

@@ -1,0 +1,183 @@
+C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux2x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2x1
+-- Compiling architecture BHV of mux2x1
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/register.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/register.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg_en
+-- Compiling architecture BHV of reg_en
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux4x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux4x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4x1
+-- Compiling architecture BHV of mux4x1
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/zeroExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/zeroExtend.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity zeroextend
+-- Compiling architecture BHV of zeroExtend
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/signExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/signExtend.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity signExtend
+-- Compiling architecture sign of signExtend
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alu_lib
+-- Compiling entity alu
+-- Compiling architecture BHV of alu
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/mux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture BHV of mux
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/ALUcontrol.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/ALUcontrol.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alu_lib
+-- Compiling entity ALUcontrol
+-- Compiling architecture BHV of ALUcontrol
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/shiftLeft2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/shiftLeft2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity shiftLeft2
+-- Compiling architecture BHV of shiftLeft2
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity controller
+-- Compiling architecture BHV of controller
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/regFile.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/regFile.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity regFile
+-- Compiling architecture BHV of regFile
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity memory_tb
+-- Compiling architecture TB of memory_tb
+-- Loading entity memory
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/datapath.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/datapath.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alu_lib
+-- Compiling entity datapath
+-- Compiling architecture BHV of datapath
+-- Loading entity alu
+-- Loading entity ALUcontrol
+-- Loading entity memory
+-- Loading entity reg_en
+-- Loading entity mux2x1
+-- Loading entity zeroextend
+-- Loading entity regFile
+-- Loading entity signExtend
+-- Loading entity shiftLeft2
+-- Loading entity mux4x1
+** Warning: C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/datapath.vhd(214): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+-- Loading entity mux
+-- Loading entity concat
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alu_lib
+-- Compiling entity alu_tb
+-- Compiling architecture TB of alu_tb
+-- Loading entity alu
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/concat.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/concat.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity concat
+-- Compiling architecture BHV of concat
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_lib.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/alu_lib.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package alu_lib
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/memory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity memory
+-- Compiling architecture BHV of memory
+-- Loading package altera_mf_components
+-- Loading entity sram
+-- Loading entity reg_en
+-- Loading entity mux
+-- Loading entity mux2x1
+
+} {} {}} C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/lukes/Desktop/Work/ModelSimProjects/MIPS/controller_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alu_lib
+-- Compiling entity controller_tb
+-- Compiling architecture TB of controller_tb
+-- Loading entity datapath
+-- Loading entity controller
+
+} {} {}}

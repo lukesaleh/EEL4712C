@@ -1,0 +1,36 @@
+# Compile of counter_tb.vhd was successful.
+# Compile of counter_mod.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.counter_tb
+# vsim -gui work.counter_tb 
+# Start time: 17:25:46 on Feb 24,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.counter_tb(tb)
+# Loading work.counter_mod(bhv)
+add wave -position end  sim:/counter_tb/clk
+add wave -position end  sim:/counter_tb/input
+add wave -position end  sim:/counter_tb/load_n
+add wave -position end  sim:/counter_tb/output
+add wave -position end  sim:/counter_tb/rst
+add wave -position end  sim:/counter_tb/up_n
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: lukes  Hostname: LUKE-LAPTOP  ProcessID: 24096
+#           Attempting to use alternate WLF file "./wlftc8sm06".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftc8sm06
+run -all
+# Break key hit
+# Simulation stop requested.
+# Compile of counter_tb.vhd was successful.
+# Compile of counter_mod.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of counter_tb.vhd was successful.
+# Compile of counter_mod.vhd was successful.
+# Compile of top_level.vhd was successful.
+# 3 compiles, 0 failed with no errors.
+quit -sim
+# End time: 15:28:18 on Feb 25,2023, Elapsed time: 22:02:32
+# Errors: 0, Warnings: 2

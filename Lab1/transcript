@@ -1,0 +1,29 @@
+# Compile of decoder7seg_tb.vhd was successful.
+# Compile of decoder7seg.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.decoder7seg work.decoder7seg_tb
+# vsim -gui work.decoder7seg work.decoder7seg_tb 
+# Start time: 11:56:40 on Jan 30,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.decoder7seg(behavior)
+# Loading ieee.numeric_std(body)
+# Loading work.decoder7seg_tb(tb)
+vsim -gui work.decoder7seg_tb
+# End time: 13:40:42 on Jan 30,2023, Elapsed time: 1:44:02
+# Errors: 0, Warnings: 0
+# vsim -gui work.decoder7seg_tb 
+# Start time: 13:40:42 on Jan 30,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.decoder7seg_tb(tb)
+# Loading work.decoder7seg(behavior)
+add wave -position end  sim:/decoder7seg_tb/output
+add wave -position end  sim:/decoder7seg_tb/input
+run -all
+quit -sim
+# End time: 14:13:38 on Jan 30,2023, Elapsed time: 0:32:56
+# Errors: 0, Warnings: 0

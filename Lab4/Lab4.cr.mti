@@ -1,0 +1,11 @@
+C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab4/counter_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\lukes\Desktop\Work\ModelSimProjects\Lab4\counter_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter_tb
+-- Compiling architecture TB of counter_tb
+-- Loading entity counter_mod
+
+} {} {}}

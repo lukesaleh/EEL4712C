@@ -1,0 +1,424 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab5
+Eclk_div
+Z0 w1677012320
+Z1 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6
+Z6 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/clk_div.vhd
+Z7 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/clk_div.vhd
+l0
+L6
+V<XWOg2533F`5HMo2dbk;A0
+!s100 NDeimK<gE>S3i_`ODcX?V2
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1679430726
+!i10b 1
+Z10 !s108 1679430726.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/clk_div.vhd|
+Z12 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/clk_div.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abhv
+R1
+R2
+R3
+R4
+Z15 DEx4 work 7 clk_div 0 22 <XWOg2533F`5HMo2dbk;A0
+l19
+L15
+V3^fCldaQT;YQ;[`D=iV?o3
+!s100 jj_UX`KM;iRTP>Z]:h44^2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecoladdress
+Z16 w1679430521
+Z17 DPx4 work 7 vga_lib 0 22 94:JHoabo2lfckV>@dZib3
+R2
+R3
+R4
+R5
+Z18 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/coladdress.vhd
+Z19 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/coladdress.vhd
+l0
+L6
+V5g3;fZzfTBX4]`U0BmRc;0
+!s100 ]Dboc0e=7m8lWLXRdgXd33
+R8
+32
+R9
+!i10b 1
+R10
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/coladdress.vhd|
+Z21 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/coladdress.vhd|
+!i113 1
+R13
+R14
+Abhv
+R17
+R2
+R3
+R4
+Z22 DEx4 work 10 coladdress 0 22 5g3;fZzfTBX4]`U0BmRc;0
+l20
+L15
+VoUh<LM2icVQ9`DHa7HlE:2
+!s100 k?IM5ckEJVjPGDb5k4Y4R1
+R8
+32
+R9
+!i10b 1
+R10
+R20
+R21
+!i113 1
+R13
+R14
+Edecoder7seg
+Z23 w1675097365
+R3
+R4
+R5
+Z24 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/decoder7seg.vhd
+Z25 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/decoder7seg.vhd
+l0
+L4
+VS_8G2;Mee>PnYi6]1U<k70
+!s100 BDUP[YZVO8FZQQ9;?L_>T0
+R8
+32
+R9
+!i10b 1
+R10
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/decoder7seg.vhd|
+Z27 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/decoder7seg.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R3
+R4
+Z28 DEx4 work 11 decoder7seg 0 22 S_8G2;Mee>PnYi6]1U<k70
+l11
+L10
+Z29 VAVGalUH5A4;^TlQ^UGZQ80
+Z30 !s100 k><bfb6]_h?4mZQf>OQgB2
+R8
+32
+R9
+!i10b 1
+R10
+R26
+R27
+!i113 1
+R13
+R14
+Erowaddress
+Z31 w1679430659
+R17
+R2
+R3
+R4
+R5
+Z32 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/rowaddress.vhd
+Z33 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/rowaddress.vhd
+l0
+L6
+VCefY;J_H<Ibm4Xa[<cj>73
+!s100 nWmlGM3?__OD^kPiQ=UbS1
+R8
+32
+R9
+!i10b 1
+R10
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/rowaddress.vhd|
+Z35 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/rowaddress.vhd|
+!i113 1
+R13
+R14
+Abhv
+R17
+R2
+R3
+R4
+Z36 DEx4 work 10 rowaddress 0 22 CefY;J_H<Ibm4Xa[<cj>73
+l20
+L15
+V3@Ij14DMA6N[`RzYK4j<;1
+!s100 [XoHY3iC4fjeJ4AMiW[462
+R8
+32
+R9
+!i10b 1
+R10
+R34
+R35
+!i113 1
+R13
+R14
+Etop_level
+Z37 w1679417693
+R3
+R4
+R5
+Z38 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/top_level.vhd
+Z39 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/top_level.vhd
+l0
+L21
+VWA::cKY;QiF4j??ij^T=Z3
+!s100 H8JSdYM297L3FORk_XS3=3
+R8
+32
+R9
+!i10b 1
+R10
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/top_level.vhd|
+Z41 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/top_level.vhd|
+!i113 1
+R13
+R14
+Astr
+R28
+R1
+R15
+R17
+R2
+Z42 DEx4 work 3 vga 0 22 5N6kOf^Ddba5daQ?8W2kI3
+R3
+R4
+DEx4 work 9 top_level 0 22 WA::cKY;QiF4j??ij^T=Z3
+l49
+L43
+VGSXEWFB7]XU>262@_Kf^i1
+!s100 _2n33iM0=be:[OXZWdMH10
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Evga
+Z43 w1679430611
+R17
+R2
+R3
+R4
+R5
+Z44 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga.vhd
+Z45 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga.vhd
+l0
+L6
+V5N6kOf^Ddba5daQ?8W2kI3
+!s100 R[:JMjzDfTh[lib^5mMlP0
+R8
+32
+R9
+!i10b 1
+R10
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga.vhd|
+Z47 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga.vhd|
+!i113 1
+R13
+R14
+Adefault_arch
+R22
+R36
+Z48 DPx9 altera_mf 20 altera_mf_components 0 22 @6M>I48X_jBQDo@?W=TN93
+Z49 DEx4 work 7 vga_rom 0 22 TJEd=7CFU4^[nFEhXE@W82
+Z50 DEx4 work 12 vga_sync_gen 0 22 ZB3EgkaW^8B`m8_2fd4W60
+R17
+R2
+R3
+R4
+R42
+l28
+L15
+Vn?MD:d@5^XG^:NU9Q:1i43
+!s100 MQ?:kZYd;XkRVhf>Ll7Q32
+R8
+32
+R9
+!i10b 1
+R10
+R46
+R47
+!i113 1
+R13
+R14
+Pvga_lib
+R3
+R4
+w1678223581
+R5
+8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_lib.vhd
+FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_lib.vhd
+l0
+L7
+V94:JHoabo2lfckV>@dZib3
+!s100 I6^@hI1a`MKzGokDiMDeX0
+R8
+32
+R9
+!i10b 1
+R10
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_lib.vhd|
+!s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_lib.vhd|
+!i113 1
+R13
+R14
+Evga_rom
+Z51 w1679430722
+R48
+R3
+R4
+R5
+Z52 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_rom.vhd
+Z53 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_rom.vhd
+l0
+L43
+VTJEd=7CFU4^[nFEhXE@W82
+!s100 U^0@4fIW^36PlE55NcSoR2
+R8
+32
+R9
+!i10b 1
+R10
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_rom.vhd|
+Z55 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_rom.vhd|
+!i113 1
+R13
+R14
+Asyn
+R48
+R3
+R4
+R49
+l57
+L53
+V^Kh@YLzo=22NA>6Tj@idA2
+!s100 94nRkN3Y8IFY7lMN?lSAL2
+R8
+32
+R9
+!i10b 1
+R10
+R54
+R55
+!i113 1
+R13
+R14
+Evga_sync_gen
+Z56 w1679413689
+R17
+R2
+R3
+R4
+R5
+Z57 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_sync_gen.vhd
+Z58 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_sync_gen.vhd
+l0
+L6
+VZB3EgkaW^8B`m8_2fd4W60
+!s100 j[K[SMk<Qf[bZ:_DMdk`W2
+R8
+32
+R9
+!i10b 1
+R10
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_sync_gen.vhd|
+Z60 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_sync_gen.vhd|
+!i113 1
+R13
+R14
+Abhv
+R17
+R2
+R3
+R4
+R50
+l16
+L13
+V<n>AJz4JFDeh7IcQO?EMm2
+!s100 4Gk_m]1>UhF@I1HTR>S]63
+R8
+32
+R9
+!i10b 1
+R10
+R59
+R60
+!i113 1
+R13
+R14
+Evga_tb
+Z61 w1679418067
+Z62 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R48
+R17
+R2
+R3
+R4
+R5
+Z63 8C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_tb.vhd
+Z64 FC:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_tb.vhd
+l0
+L12
+V<`UzP[N`ZVmGnoRI?XD700
+!s100 SWC2Q7GVHS0AaFHFf4CF<3
+R8
+32
+!s110 1679430725
+!i10b 1
+Z65 !s108 1679430725.000000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_tb.vhd|
+Z67 !s107 C:/Users/lukes/Desktop/Work/ModelSimProjects/Lab6/vga_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R42
+R62
+R48
+R17
+R2
+R3
+R4
+DEx4 work 6 vga_tb 0 22 <`UzP[N`ZVmGnoRI?XD700
+l28
+L15
+Vd2>7cF=:H2IQIUn>Uc1Ez0
+!s100 VCFIFhz`V?SnL48@4W[Qn0
+R8
+32
+R9
+!i10b 1
+R65
+R66
+R67
+!i113 1
+R13
+R14
